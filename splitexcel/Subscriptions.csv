@@ -1,0 +1,5 @@
+subscription_id,display_name,subscription_name,product_code,subscription_active,subscription_code,description,cost,no_of_users
+1,Free,Free Plan,FREE,True,FREE_SUB,Free plan,0.0,3
+2,Basic,Basic Plan,BASIC,True,BASIC_SUB,Basic plan,19.99,10
+3,Pro,Pro Plan,PRO,True,PRO_SUB,Pro plan,49.99,50
+4,Enterprise,Enterprise Plan,ENT,True,ENT_SUB,Enterprise plan,199.99,100

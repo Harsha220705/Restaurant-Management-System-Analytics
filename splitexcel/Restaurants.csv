@@ -1,0 +1,101 @@
+restaurant_id,name,legal_name,address,phone,is_franchise,is_active,country,client_id,currency_id
+1,"Jackson, Smith and Munoz",Eaton-Martin,"Unit 6316 Box 4456
+DPO AP 21890",660.346.3819,False,True,UK,30,1
+2,"Dean, Schmidt and Haas",Yu-Waller,"0319 Greene Park
+South Heatherville, WY 04163",+1-937-622-0420x803,False,True,UK,27,1
+3,"Long, Reeves and Duncan",Snyder-Hoffman,"20787 Hoover Shore
+Port Devinshire, VA 52831",(796)326-6714,False,True,UK,28,1
+4,Pacheco PLC,"Collins, Castro and Cole","57264 Martin Points Suite 420
+Austinberg, NJ 34277",598-599-7725x2595,False,True,UK,15,1
+5,"Owens, Johnson and Anderson","Torres, Wilson and Hernandez","4581 Perez Vista
+Thomasside, KS 59051",227.372.3331,False,True,India,22,4
+6,"Williams, Morrow and Martin",Rivera and Sons,"1954 Gomez Mews Apt. 896
+Lisamouth, GA 56430",+1-752-349-4166,False,True,India,23,4
+7,"Turner, Holmes and Wilson","Yates, Dillon and Williams","8624 Tonya Valleys Suite 947
+Kendrashire, MD 68213",689.491.9885x46062,True,True,UK,10,1
+8,"Parrish, Malone and Woods","Shah, Foley and Smith","1055 Rebecca Crossing
+East Frankbury, WY 05057",+1-399-868-2636x16659,False,True,India,6,4
+9,Steele-Smith,"Butler, Sutton and Garcia","Unit 9074 Box 9458
+DPO AP 26703",831-911-1783x0770,False,True,India,6,4
+10,Arellano-Lopez,"Jensen, Contreras and Smith","54038 Thompson Shoal Suite 672
+North Ethan, MO 42238",001-217-378-4273x487,False,True,UK,29,1
+11,"Nelson, Jordan and Franklin",Lawrence-Faulkner,"44344 Buchanan Isle
+Charlottetown, CA 59301",(551)871-4598x0057,False,True,India,18,4
+12,"Callahan, Frye and Jones",Washington Inc,"USCGC Johns
+FPO AA 14230",001-814-924-7374x445,True,True,UK,12,1
+13,Graham-Rodriguez,Stephenson Inc,"3930 Fry Stravenue
+Beardbury, HI 46594",296.748.5662x849,True,True,UK,28,1
+14,Simmons-Flores,Perkins LLC,"32531 Brooke Summit
+Williamtown, MP 37166",821-653-0346,False,True,UK,3,1
+15,Henderson-Taylor,Ho-Mcconnell,"646 Emily Square
+West Jenniferside, ME 23458",(426)632-6118x37121,False,True,India,6,4
+16,Bush LLC,Mcconnell Group,"9311 Christine Trail Apt. 760
+South Nicole, CO 48951",001-689-366-8572,False,True,UK,13,1
+17,Lawrence and Sons,Shelton-Krueger,"887 Scott Isle
+Robertmouth, LA 35698",873-887-9230x21524,False,True,UK,13,1
+18,"Mayo, Brooks and Yu",Perez-Bentley,"192 Tonya Inlet
+North Amandaland, WY 06052",+1-431-338-1438,False,True,UK,4,1
+19,Carter and Sons,"Young, Robertson and Ruiz","24852 Shawn Cliffs
+North Thomastown, SC 27104",938.377.4114x50488,True,True,UK,10,1
+20,Davis-Woodard,"Robinson, Brock and Bond","2069 Martin Bypass
+Port Robert, ID 38550",720.486.5662x87286,False,True,UK,30,1
+21,Ray-Hill,"Kemp, Smith and Phillips","29514 Wood Common Suite 792
+Adkinston, MH 82581",+1-251-725-2365x2520,False,True,UK,5,1
+22,"Holmes, Kim and Carter",Holmes LLC,"346 Garcia Highway Apt. 112
+Lake Abigail, TX 49940",(770)939-4433,False,True,UK,3,1
+23,"Williams, Kelly and Sellers","Hanson, Velasquez and Armstrong","1784 Mccormick Meadow
+Amberville, TN 52014",434-706-5932,False,True,UK,15,1
+24,Parker Inc,Diaz and Sons,"Unit 0594 Box 3342
+DPO AP 61339",7492140306,False,True,UK,26,1
+25,"Christian, Ferrell and Crawford",Garcia-Martin,"842 Leah Harbor
+Lake Diana, RI 19317",(775)792-0898x5182,False,True,UK,3,1
+26,Miller Ltd,"Hardin, Riggs and Becker","115 Colin Shoal
+New Vincenttown, AR 14588",+1-975-349-0252,True,True,UK,1,1
+27,Hunter Ltd,"Williams, Davis and Ruiz","502 Morris Centers Suite 934
+New Jennifershire, WI 46937",842-203-5641,False,True,India,24,4
+28,"Ferguson, Burnett and Stewart","Riley, Bush and Richard","9520 Robert Vista Suite 807
+New John, PA 72189",+1-710-248-5367x86168,True,True,UK,30,1
+29,Ali-Steele,Watson PLC,"USS Doyle
+FPO AE 93358",+1-302-315-5291x82753,False,True,UK,27,1
+30,Robertson Ltd,Obrien-Mitchell,"84173 Guerrero Tunnel
+Williamsonmouth, WA 31522",+1-429-797-5266,False,True,UK,17,1
+31,"Brown, Walker and Smith",Meadows-Perry,"5898 Stark Extension
+New Aaron, AL 75785",+1-870-629-9214x32956,False,True,UK,3,1
+32,Browning-Bradshaw,"Larson, Weber and Morales","949 Walters Tunnel
+Lake Stephenstad, CT 94149",8964002889,False,True,UK,10,1
+33,Allen-Ramos,Stewart-Smith,"3409 Joseph Drive
+Millerbury, UT 84442",+1-206-313-6589,False,True,India,11,4
+34,Miller-Ramirez,"Weaver, Mccullough and Wilson","9025 Gonzales Prairie Suite 910
+Gregorymouth, MT 17277",771.665.9812x817,True,True,UK,28,1
+35,Patrick Group,Ramirez-King,"Unit 2568 Box 4641
+DPO AP 63457",261-609-6078x090,False,True,UK,8,1
+36,"Ford, Fields and Meza","Ferguson, Parrish and Burton","USNS Goodman
+FPO AE 69965",001-717-760-8706x93955,False,True,UK,19,1
+37,"Petty, Gordon and Hardy","Gibbs, Carr and Lawrence","4054 Michael Vista
+New Tommy, DE 07737",(801)647-6143,True,True,UK,12,1
+38,Brown and Sons,"Espinoza, Reyes and Ochoa","3098 Rhodes Manor
+Andreahaven, NH 88055",+1-759-472-7864,False,True,UK,28,1
+39,"Rhodes, Gray and Jennings",Murray-Pope,"80431 Richard Islands Apt. 184
+Coleville, AR 13910",001-521-250-1053x164,False,True,India,23,4
+40,Brown-Christian,Reeves Ltd,"065 Emily Shore
+South Lisaborough, SC 06097",(591)584-7590,False,True,UK,25,1
+41,Montoya Inc,"Jensen, Sullivan and Johnson","21359 David Rapids
+Hectorview, KY 91686",(477)663-2354x7858,False,True,UK,3,1
+42,Lewis PLC,"Hernandez, Deleon and Goodwin","386 Kyle Land
+West Evelyn, CA 01119",+1-405-253-3575,False,True,UK,8,1
+43,Arnold-Freeman,Turner-Ellis,"89769 Miller Spring Apt. 592
+Joeview, NJ 30134",001-990-400-1121x59554,False,True,UK,14,1
+44,Nielsen-Lee,Arnold-James,"717 James Crossroad Apt. 301
+South Adam, VT 95068",211.461.3518,False,True,UK,19,1
+45,"Baker, Miller and Roberson","Brown, Baker and Tucker","Unit 0617 Box 3932
+DPO AA 92825",(321)583-0815,False,True,UK,21,1
+46,Saunders and Sons,Braun-Brown,"3459 Garcia Spring
+West Joshuashire, WA 23298",+1-960-922-1811x006,True,True,UK,5,1
+47,Lopez and Sons,"Jones, Hines and Williams","4826 Paul Crest
+Jamesfort, NM 94119",+1-462-305-6459x8185,False,True,UK,14,1
+48,Stewart-Pittman,Romero Ltd,"936 Megan Loaf
+Robinsonport, SD 05157",+1-678-240-0769x543,False,True,India,23,4
+49,"Collins, Dean and Knight",Moore Inc,"264 Campbell Ridges Suite 818
+New Charles, KY 41374",+1-910-391-7575x2892,False,True,UK,13,1
+50,"Harper, Smith and Hess",Bautista-Myers,"6041 Brendan Crossroad Suite 304
+Travisshire, VA 60396",001-344-784-7988x07210,False,True,UK,12,1

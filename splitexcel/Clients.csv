@@ -1,0 +1,61 @@
+client_id,legal_name,business_name,address,contact_person,country,is_active,inactivated_date,activated_date
+1,Ward-Flores,"Rivera, Rocha and Stevens","4439 Brooke Forge Suite 521
+Olivermouth, ND 71755",Kathleen Clark,UK,True,,2025-08-07
+2,"Martin, Morgan and Banks",Lynch-King,"46422 Calhoun Fords Suite 719
+Lake Dominicburgh, GU 21581",William Reyes,India,True,,2025-08-07
+3,"Holland, Cochran and Pearson",Rice Group,"USNV Alvarez
+FPO AP 29069",John Simpson,UK,True,,2025-08-07
+4,Anderson-Johnson,Haynes Inc,"00209 Murphy Burgs Suite 659
+Port Desiree, NM 83504",Michelle Walker,UK,True,,2025-08-07
+5,"Romero, Smith and Yoder",Giles-Carter,"76931 Colleen Mount Suite 424
+Port Toddbury, TX 54794",Bryan Clark,UK,True,,2025-08-07
+6,"Tucker, Johnson and Johnson",Hernandez Inc,"PSC 7004, Box 6209
+APO AE 39387",Walter Gutierrez,India,True,,2025-08-07
+7,Pacheco Ltd,Rogers-Brooks,"31018 Graves Pass
+North Bruce, ID 06394",Lisa Moore,UK,True,,2025-08-07
+8,Kelly-Lloyd,Smith Inc,"USCGC Booker
+FPO AE 05584",Amanda Davis,UK,True,,2025-08-07
+9,"Thomas, Mclaughlin and Martinez",Morgan Inc,"3830 Mcbride Station Apt. 822
+East Christopher, IA 32094",Stephen Cruz,India,True,,2025-08-07
+10,Robinson Group,Alvarez Inc,"59344 Shaw Mall Apt. 019
+New Samantha, SC 30872",Ian Garner,UK,True,,2025-08-07
+11,"Garcia, Campbell and Ponce","Kelley, Phillips and Silva","91017 Jacqueline Heights
+Brownton, WV 07469",David Clark,India,True,,2025-08-07
+12,Thomas-Mendez,David-Jones,"7302 Joseph Neck
+New Evanmouth, OK 09601",Michael Berg,UK,True,,2025-08-07
+13,Garcia-Rogers,Hendrix-Huffman,"5610 Grant Rue Apt. 070
+New Heatherbury, OK 01780",Adam Alvarado,UK,True,,2025-08-07
+14,"Smith, Andrews and Wright",Clarke PLC,"537 Barry Expressway Suite 236
+Walkerhaven, CO 61588",Meghan Gomez,UK,True,,2025-08-07
+15,"Wheeler, Jenkins and Cruz",Rodriguez Inc,"733 Manning Run Apt. 117
+East Kellyfort, HI 53501",Kathryn Fletcher,UK,True,,2025-08-07
+16,"Holland, Harrington and Smith","Barrera, Lee and Gibbs","687 Christine Ridges
+East Sabrinaton, WI 71144",Joshua Welch,India,True,,2025-08-07
+17,Wilkerson Group,Martin PLC,"247 Cheryl Cliffs
+North Alexfurt, VT 69224",John James,UK,True,,2025-08-07
+18,"Graves, Cruz and Hall","Wagner, James and Clark","757 Collier Squares Apt. 758
+Brownfurt, MH 27361",Daniel Stone,India,True,,2025-08-07
+19,"Ross, Campbell and Johnson","Graham, Nelson and Parrish","PSC 1473, Box 0115
+APO AP 25860",John Gordon,UK,False,2025-08-07,
+20,Cohen-Kerr,Dean-Brown,"965 Christopher Tunnel
+Lake Yvette, MO 57974",Matthew Parsons,India,True,,2025-08-07
+21,Colon-Sparks,Baker-Hoover,"2334 Coleman Shoal Apt. 994
+Jacksonville, MN 93636",Sarah Shaw,UK,True,,2025-08-07
+22,Williams-Fowler,Thompson Inc,"USNS Washington
+FPO AA 88633",Anthony Davis,India,True,,2025-08-07
+23,Levy PLC,"Smith, Nelson and Obrien","148 Justin Estate
+Lindsayport, CO 95226",Philip Brown Jr.,India,True,,2025-08-07
+24,Bautista-Grimes,Turner and Sons,"5596 Porter Drive Suite 874
+Watsonport, GU 06294",Jacqueline Mcdaniel,India,True,,2025-08-07
+25,Maldonado Inc,"Murray, Harper and Wilson","350 Yates Mews Apt. 991
+North Linda, AZ 85954",Paul Hansen,UK,False,2025-08-07,
+26,Johnson-Lopez,Phillips and Sons,"87195 Ortiz Islands
+Loganhaven, AZ 60617",Jason Black,UK,False,2025-08-07,
+27,Robinson PLC,"Walsh, Gonzalez and King","61925 Turner Cliff Apt. 261
+South David, KS 35308",Joseph Atkinson,UK,True,,2025-08-07
+28,Henson PLC,"Richardson, Cole and Singh","897 Sparks Islands Apt. 778
+Daytown, MS 12257",Robert Porter,UK,True,,2025-08-07
+29,Lucas and Sons,Jones Inc,"986 Howard Shores Apt. 756
+Campbelltown, VA 45075",Michelle Ramirez,UK,True,,2025-08-07
+30,"Roy, Johnson and Larsen","Hernandez, Alexander and Lester","9809 Hawkins Burgs
+Codychester, MT 84377",Scott Krueger,UK,True,,2025-08-07

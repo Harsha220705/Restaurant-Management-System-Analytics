@@ -1,0 +1,3 @@
+tax_type_id,country,Tax_Type,tax_percentage
+1,UK,VAT,0.08
+2,India,GST,0.18
