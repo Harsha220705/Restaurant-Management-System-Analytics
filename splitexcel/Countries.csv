@@ -1,0 +1,250 @@
+lang,lan_name,country_alpha2_code,country_code,country_name
+EN,ENGLISH,AD,AND,Andorra
+EN,ENGLISH,AE,ARE,United Arab Emirates
+EN,ENGLISH,AF,AFG,Afghanistan
+EN,ENGLISH,AG,ATG,Antigua and Barbuda
+EN,ENGLISH,AI,AIA,Anguilla
+EN,ENGLISH,AL,ALB,Albania
+EN,ENGLISH,AM,ARM,Armenia
+EN,ENGLISH,AO,AGO,Angola
+EN,ENGLISH,AQ,ATA,Antarctica
+EN,ENGLISH,AR,ARG,Argentina
+EN,ENGLISH,AS,ASM,American Samoa
+EN,ENGLISH,AT,AUT,Austria
+EN,ENGLISH,AU,AUS,Australia
+EN,ENGLISH,AW,ABW,Aruba
+EN,ENGLISH,AX,ALA,Aland Islands
+EN,ENGLISH,AZ,AZE,Azerbaijan
+EN,ENGLISH,BA,BIH,Bosnia and Herzegovina
+EN,ENGLISH,BB,BRB,Barbados
+EN,ENGLISH,BD,BGD,Bangladesh
+EN,ENGLISH,BE,BEL,Belgium
+EN,ENGLISH,BF,BFA,Burkina Faso
+EN,ENGLISH,BG,BGR,Bulgaria
+EN,ENGLISH,BH,BHR,Bahrain
+EN,ENGLISH,BI,BDI,Burundi
+EN,ENGLISH,BJ,BEN,Benin
+EN,ENGLISH,BL,BLM,Saint Barthelemy
+EN,ENGLISH,BM,BMU,Bermuda
+EN,ENGLISH,BN,BRN,Brunei Darussalam
+EN,ENGLISH,BO,BOL,"Bolivia, Plurinational State of"
+EN,ENGLISH,BQ,BES,"Bonaire, Sint Eustatius and Saba"
+EN,ENGLISH,BR,BRA,Brazil
+EN,ENGLISH,BS,BHS,Bahamas
+EN,ENGLISH,BT,BTN,Bhutan
+EN,ENGLISH,BV,BVT,Bouvet Island
+EN,ENGLISH,BW,BWA,Botswana
+EN,ENGLISH,BY,BLR,Belarus
+EN,ENGLISH,BZ,BLZ,Belize
+EN,ENGLISH,CA,CAN,Canada
+EN,ENGLISH,CC,CCK,Cocos (Keeling) Islands
+EN,ENGLISH,CD,COD,"Congo, The Democratic Republic of The"
+EN,ENGLISH,CF,CAF,Central African Republic
+EN,ENGLISH,CG,COG,Congo
+EN,ENGLISH,CH,CHE,Switzerland
+EN,ENGLISH,CI,CIV,Cote D'ivoire
+EN,ENGLISH,CK,COK,Cook Islands
+EN,ENGLISH,CL,CHL,Chile
+EN,ENGLISH,CM,CMR,Cameroon
+EN,ENGLISH,CN,CHN,China
+EN,ENGLISH,CO,COL,Colombia
+EN,ENGLISH,CR,CRI,Costa Rica
+EN,ENGLISH,CU,CUB,Cuba
+EN,ENGLISH,CV,CPV,Cabo Verde
+EN,ENGLISH,CW,CUW,Curacao
+EN,ENGLISH,CX,CXR,Christmas Island
+EN,ENGLISH,CY,CYP,Cyprus
+EN,ENGLISH,CZ,CZE,Czech Republic
+EN,ENGLISH,DE,DEU,Germany
+EN,ENGLISH,DJ,DJI,Djibouti
+EN,ENGLISH,DK,DNK,Denmark
+EN,ENGLISH,DM,DMA,Dominica
+EN,ENGLISH,DO,DOM,Dominican Republic
+EN,ENGLISH,DZ,DZA,Algeria
+EN,ENGLISH,EC,ECU,Ecuador
+EN,ENGLISH,EE,EST,Estonia
+EN,ENGLISH,EG,EGY,Egypt
+EN,ENGLISH,EH,ESH,Western Sahara
+EN,ENGLISH,ER,ERI,Eritrea
+EN,ENGLISH,ES,ESP,Spain
+EN,ENGLISH,ET,ETH,Ethiopia
+EN,ENGLISH,FI,FIN,Finland
+EN,ENGLISH,FJ,FJI,Fiji
+EN,ENGLISH,FK,FLK,Falkland Islands (Malvinas)
+EN,ENGLISH,FM,FSM,"Micronesia, Federated States of"
+EN,ENGLISH,FO,FRO,Faroe Islands
+EN,ENGLISH,FR,FRA,France
+EN,ENGLISH,GA,GAB,Gabon
+EN,ENGLISH,GD,GRD,Grenada
+EN,ENGLISH,GE,GEO,Georgia
+EN,ENGLISH,GF,GUF,French Guiana
+EN,ENGLISH,GG,GGY,Guernsey
+EN,ENGLISH,GH,GHA,Ghana
+EN_ENGLISH,GI,GIB,Gibraltar,
+EN,ENGLISH,GL,GRL,Greenland
+EN,ENGLISH,GM,GMB,Gambia
+EN,ENGLISH,GN,GIN,Guinea
+EN,ENGLISH,GP,GLP,Guadeloupe
+EN,ENGLISH,GQ,GNQ,Equatorial Guinea
+EN,ENGLISH,GR,GRC,Greece
+EN,ENGLISH,GS,SGS,South Georgia and The South Sandwich Islands
+EN,ENGLISH,GT,GTM,Guatemala
+EN,ENGLISH,GU,GUM,Guam
+EN,ENGLISH,GW,GNB,Guinea-Bissau
+EN,ENGLISH,GY,GUY,Guyana
+EN,ENGLISH,HK,HKG,Hong Kong
+EN,ENGLISH,HM,HMD,Heard Island and Mcdonald Islands
+EN,ENGLISH,HN,HND,Honduras
+EN,ENGLISH,HR,HRV,Croatia
+EN,ENGLISH,HT,HTI,Haiti
+EN,ENGLISH,HU,HUN,Hungary
+EN,ENGLISH,ID,IDN,Indonesia
+EN,ENGLISH,IE,IRL,Ireland
+EN,ENGLISH,IL,ISR,Israel
+EN,ENGLISH,IM,IMN,Isle of Man
+EN,ENGLISH,IN,IND,India
+EN,ENGLISH,IO,IOT,British Indian Ocean Territory
+EN,ENGLISH,IQ,IRQ,Iraq
+EN,ENGLISH,IR,IRN,"Iran, Islamic Republic of"
+EN,ENGLISH,IS,ISL,Iceland
+EN,ENGLISH,IT,ITA,Italy
+EN,ENGLISH,JE,JEY,Jersey
+EN,ENGLISH,JM,JAM,Jamaica
+EN,ENGLISH,JO,JOR,Jordan
+EN,ENGLISH,JP,JPN,Japan
+EN,ENGLISH,KE,KEN,Kenya
+EN,ENGLISH,KG,KGZ,Kyrgyzstan
+EN,ENGLISH,KH,KHM,Cambodia
+EN,ENGLISH,KI,KIR,Kiribati
+EN,ENGLISH,KM,COM,Comoros
+EN,ENGLISH,KN,KNA,Saint Kitts and Nevis
+EN,ENGLISH,KP,PRK,"Korea, Democratic People's Republic of"
+EN,ENGLISH,KR,KOR,"Korea, Republic of"
+EN,ENGLISH,KW,KWT,Kuwait
+EN,ENGLISH,KY,CYM,Cayman Islands
+EN,ENGLISH,KZ,KAZ,Kazakhstan
+EN,ENGLISH,LA,LAO,Lao People's Democratic Republic
+EN,ENGLISH,LB,LBN,Lebanon
+EN,ENGLISH,LC,LCA,Saint Lucia
+EN,ENGLISH,LI,LIE,Liechtenstein
+EN,ENGLISH,LK,LKA,Sri Lanka
+EN,ENGLISH,LR,LBR,Liberia
+EN,ENGLISH,LS,LSO,Lesotho
+EN,ENGLISH,LT,LTU,Lithuania
+EN,ENGLISH,LU,LUX,Luxembourg
+EN,ENGLISH,LV,LVA,Latvia
+EN,ENGLISH,LY,LBY,Libya
+EN,ENGLISH,MA,MAR,Morocco
+EN,ENGLISH,MC,MCO,Monaco
+EN,ENGLISH,MD,MDA,"Moldova, Republic of"
+EN,ENGLISH,ME,MNE,Montenegro
+EN,ENGLISH,MF,MAF,Saint Martin (French Part)
+EN,ENGLISH,MG,MDG,Madagascar
+EN,ENGLISH,MH,MHL,Marshall Islands
+EN,ENGLISH,MK,MKD,North Macedonia
+EN,ENGLISH,ML,MLI,Mali
+EN,ENGLISH,MM,MMR,Myanmar
+EN,ENGLISH,MN,MNG,Mongolia
+EN,ENGLISH,MO,MAC,Macao
+EN,ENGLISH,MP,MNP,Northern Mariana Islands
+EN,ENGLISH,MQ,MTQ,Martinique
+EN,ENGLISH,MR,MRT,Mauritania
+EN,ENGLISH,MS,MSR,Montserrat
+EN,ENGLISH,MT,MLT,Malta
+EN,ENGLISH,MU,MUS,Mauritius
+EN,ENGLISH,MV,MDV,Maldives
+EN,ENGLISH,MW,MWI,Malawi
+EN,ENGLISH,MX,MEX,Mexico
+EN,ENGLISH,MY,MYS,Malaysia
+EN,ENGLISH,MZ,MOZ,Mozambique
+EN,ENGLISH,,NAM,Namibia
+EN,ENGLISH,NC,NCL,New Caledonia
+EN,ENGLISH,NE,NER,Niger
+EN,ENGLISH,NF,NFK,Norfolk Island
+EN,ENGLISH,NG,NGA,Nigeria
+EN,ENGLISH,NI,NIC,Nicaragua
+EN,ENGLISH,NL,NLD,Netherlands
+EN,ENGLISH,NO,NOR,Norway
+EN,ENGLISH,NP,NPL,Nepal
+EN,ENGLISH,NR,NRU,Nauru
+EN,ENGLISH,NU,NIU,Niue
+EN,ENGLISH,NZ,NZL,New Zealand
+EN,ENGLISH,OM,OMN,Oman
+EN,ENGLISH,PA,PAN,Panama
+EN,ENGLISH,PE,PER,Peru
+EN,ENGLISH,PF,PYF,French Polynesia
+EN,ENGLISH,PG,PNG,Papua New Guinea
+EN,ENGLISH,PH,PHL,Philippines
+EN,ENGLISH,PK,PAK,Pakistan
+EN,ENGLISH,PL,POL,Poland
+EN,ENGLISH,PM,SPM,Saint Pierre and Miquelon
+EN,ENGLISH,PN,PCN,Pitcairn
+EN,ENGLISH,PR,PRI,Puerto Rico
+EN,ENGLISH,PS,PSE,"Palestine, State
+of"
+EN,ENGLISH,PT,PRT,Portugal
+EN,ENGLISH,PW,PLW,Palau
+EN,ENGLISH,PY,PRY,Paraguay
+EN,ENGLISH,QA,QAT,Qatar
+EN,ENGLISH,RE,REU,Reunion
+EN,ENGLISH,RO,ROU,Romania
+EN,ENGLISH,RS,SRB,Serbia
+EN,ENGLISH,RU,RUS,Russian Federation
+EN,ENGLISH,RW,RWA,Rwanda
+EN,ENGLISH,SA,SAU,Saudi Arabia
+EN,ENGLISH,SB,SLB,Solomon Islands
+EN_ENGLISH,SC,SYC,Seychelles,
+EN,ENGLISH,SD,SDN,Sudan
+EN_ENGLISH,SE,SWE,Sweden,
+EN,ENGLISH,SG,SGP,Singapore
+EN,ENGLISH,SH,SHN,"Saint Helena, Ascension and Tristan Da Cunha"
+EN,ENGLISH,SI,SVN,Slovenia
+EN,ENGLISH,SJ,SJM,Svalbard and Jan Mayen
+EN,ENGLISH,SK,SVK,Slovakia
+EN,ENGLISH,SL,SLE,Sierra Leone
+EN,ENGLISH,SM,SMR,San Marino
+EN,ENGLISH,SN,SEN,Senegal
+EN,ENGLISH,SO,SOM,Somalia
+EN,ENGLISH,SR,SUR,Suriname
+EN,ENGLISH,SS,SSD,South Sudan
+EN,ENGLISH,ST,STP,Sao Tome and Principe
+EN,ENGLISH,SV,SLV,El Salvador
+EN,ENGLISH,SX,SXM,Sint Maarten (Dutch Part)
+EN,ENGLISH,SY,SYR,Syrian Arab Republic
+EN,ENGLISH,SZ,SWZ,Swaziland
+EN,ENGLISH,TC,TCA,Turks and Caicos Islands
+EN,ENGLISH,TD,TCD,Chad
+EN,ENGLISH,TF,ATF,French Southern Territories
+EN,ENGLISH,TG,TGO,Togo
+EN,ENGLISH,TH,THA,Thailand
+EN,ENGLISH,TJ,TJK,Tajikistan
+EN,ENGLISH,TK,TKL,Tokelau
+EN,ENGLISH,TL,TLS,Timor-Leste
+EN,ENGLISH,TM,TKM,Turkmenistan
+EN,ENGLISH,TN,TUN,Tunisia
+EN,ENGLISH,TO,TON,Tonga
+EN,ENGLISH,TR,TUR,Turkey
+EN,ENGLISH,TT,TTO,Trinidad and Tobago
+EN,ENGLISH,TV,TUV,Tuvalu
+EN,ENGLISH,TW,TWN,"Taiwan, Province of China"
+EN,ENGLISH,TZ,TZA,"Tanzania, United Republic of"
+EN,ENGLISH,UA,UKR,Ukraine
+EN,ENGLISH,UG,UGA,Uganda
+EN,ENGLISH,UM,UMI,United States Minor Outlying Islands
+EN,ENGLISH,US,USA,United States
+EN,ENGLISH,UY,URY,Uruguay
+EN,ENGLISH,UZ,UZB,Uzbekistan
+EN,ENGLISH,VA,VAT,Holy See
+EN,ENGLISH,VC,VCT,Saint Vincent and The Grenadines
+EN,ENGLISH,VE,VEN,"Venezuela, Bolivarian Republic of"
+EN,ENGLISH,VG,VGB,"Virgin Islands, British"
+EN,ENGLISH,VI,VIR,"Virgin Islands, U.S."
+EN,ENGLISH,VN,VNM,Viet Nam
+EN,ENGLISH,VU,VUT,Vanuatu
+EN,ENGLISH,WF,WLF,Wallis and Futuna
+EN,ENGLISH,WS,WSM,Samoa
+EN,ENGLISH,YE,YEM,Yemen
+EN_ENGLISH,YT,MYT,Mayotte,
+EN,ENGLISH,ZA,ZAF,South Africa
+EN,ENGLISH,ZM,ZMB,Zambia
+EN,ENGLISH,ZW,ZWE,Zimbabwe
